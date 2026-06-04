@@ -93,3 +93,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolaslops&theme=github-dark&bg_color=0d1117&hide_border=false&color=58a6ff" width="100%" alt="Activity Graph" />
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:313745,100:58a6ff&height=200&section=footer" width="100%"/>
+</div>
