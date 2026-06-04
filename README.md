@@ -25,15 +25,15 @@
 <table border="0" width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h3>Sobre Mim</h3>
+      <h3>About Me</h3>
       <p align="justify">
-        Sou estudante do 3º ano do Ensino Médio cursando <b>Desenvolvimento de Sistemas</b>. Sou um aprendiz apaixonado pela intersecção entre infraestrutura de dados e inteligência computacional. 
+        I am a high school senior pursuing a technical degree in <b>Systems Development</b>. I am a passionate learner driven by the intersection of data infrastructure and computational intelligence. 
       </p>
       <p align="justify">
-        Focado em construir automações robustas e arquiteturas eficientes para a resolução de problemas reais. Atualmente dedico meus estudos ao aprofundamento em algoritmos de <b>Inteligência Artificial</b> e pipelines avançados de <b>Engenharia de Dados</b>.
+        Focused on building robust automations and efficient architectures to solve real-world problems. Currently, I dedicate my studies to deepening my knowledge in <b>Artificial Intelligence</b> algorithms and advanced <b>Data Engineering</b> pipelines.
       </p>
       <p>
-        Santa Catarina, Brasil
+        Santa Catarina, Brazil
       </p>
     </td>
   </tr>
@@ -43,7 +43,7 @@
 <hr>
 <br>
 
-<h3 align="center">Stack & Tecnologias</h3>
+<h3 align="center">Stack & Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=00599C"/>
@@ -62,25 +62,25 @@
 <hr>
 <br>
 
-<h3>Projetos em Destaque</h3>
+<h3>Featured Projects</h3>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Sistema Bancário</h4>
-      <p>Back-end estruturado em Python focado em lógica de negócios pura, transações simultâneas seguras e relatórios de extrato dinâmicos.</p>
+      <h4>Banking System</h4>
+      <p>Python-structured back-end focused on pure business logic, secure concurrent transactions, and dynamic statement reports.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
       </p>
-      <a href="https://github.com/nicolaslops/Sistema-Bancario" target="_blank"><code>Ver Repositório →</code></a>
+      <a href="https://github.com/nicolaslops/Sistema-Bancario" target="_blank"><code>View Repository →</code></a>
     </td>
     <td width="50%" valign="top">
-      <h4>ChatBot Inteligente</h4>
-      <p>Agente conversacional avançado com integração de IA para interpretação de intenções textuais e respostas automatizadas contextualizadas.</p>
+      <h4>Intelligent ChatBot</h4>
+      <p>Advanced conversational agent with AI integration for intent classification and automated, contextual responses.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
         <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white"/>
       </p>
-      <a href="https://github.com/nicolaslops/ChatBot" target="_blank"><code>Ver Repositório →</code></a>
+      <a href="https://github.com/nicolaslops/ChatBot" target="_blank"><code>View Repository →</code></a>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@
 <hr>
 <br>
 
-<h3>Estatísticas de Desempenho</h3>
+<h3>Performance Statistics</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolaslops&theme=github-dark&bg_color=0d1117&hide_border=false&color=58a6ff" width="100%" alt="Activity Graph" />
 </div>
