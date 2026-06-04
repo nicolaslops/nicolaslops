@@ -46,49 +46,38 @@ Sou estudante do 3º ano do Ensino Médio cursando <b>Desenvolvimento de Sistema
 
 <br>
 
-<!-- PROJETOS EM DESTAQUE -->
 <h2 align="center">Projetos em Destaque</h2>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">Sistema Bancário</h3>
-<p align="center">
-  <a href="https://github.com/nicolaslops/Sistema-Bancario">
-    <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Sistema bancário completo desenvolvido em Python com operações de depósito, saque, extrato e gerenciamento de contas.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">ChatBot</h3>
-<p align="center">
-  <a href="https://github.com/nicolaslops/ChatBot">
-    <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-<p align="center">Chatbot inteligente com processamento de linguagem natural para interação automatizada com usuários.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-e74c3c?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-
-</td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Sistema Bancário</h3>
+        <p align="center">
+          <a href="https://github.com/nicolaslops/Sistema-Bancario">
+            <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">Sistema bancário completo desenvolvido em Python com operações de depósito, saque, extrato e gerenciamento de contas.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">ChatBot</h3>
+        <p align="center">
+          <a href="https://github.com/nicolaslops/ChatBot">
+            <img src="https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p align="center">Chatbot inteligente com processamento de linguagem natural para interação automatizada com usuários.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/IA-e74c3c?style=flat-square&logo=openai&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
