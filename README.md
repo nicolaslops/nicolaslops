@@ -105,6 +105,9 @@ Sou estudante do 3º ano do Ensino Médio cursando <b>Desenvolvimento de Sistema
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para Nicolas Santana Lopes"/>
   </a>
   &nbsp;
+  <a href="https://wa.me/5547991507441" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Enviar mensagem no WhatsApp para Nicolas Santana Lopes"/>
+  </a>
 </p>
 
 <br>
