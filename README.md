@@ -46,13 +46,6 @@ Sou estudante do 3º ano do Ensino Médio cursando <b>Desenvolvimento de Sistema
 
 <br>
 
-<!-- STREAK STATS -->
-<div align="center">
-  <img width="700" src="https://streak-stats.demolab.com/?user=nicolaslops&theme=radical&hide_border=true&background=0d1117&stroke=6c3483&ring=e74c3c&fire=e74c3c&currStreakLabel=e74c3c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
----
-
 <!-- PROJETOS EM DESTAQUE -->
 <h2 align="center">Projetos em Destaque</h2>
 
