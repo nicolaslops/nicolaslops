@@ -1,107 +1,159 @@
 <div align="center">
-  <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=334155&text=Nicolas%20Santana%20Lopes&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Engineering%20%7C%20AI%20%7C%20Automation&descSize=16&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=NICOLAS%20SANTANA%20LOPES&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ENGINEERING%20//%20ARTIFICIAL%20INTELLIGENCE%20//%20AUTOMATION&descSize=14&descAlignY=55&descColor=BFBFBF&animation=fadeIn" width="100%" alt="Nicolas Santana Lopes"/>
 
-  <!-- NETWORKING BADGES -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/nicolas-lopes-bb5a7a39b/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-    </a>
-    &nbsp;
-    <a href="https://wa.me/5547991507441" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-475569?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
-    </a>
-    &nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolassantanalopes@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-475569?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-    </a>
-  </p>
+<br>
+
+<a href="https://github.com/nicolaslops">
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+data+pipelines+that+scale;Turning+raw+data+into+intelligent+systems;Backend+%2B+AI+%2B+Automation;Always+learning%2C+always+shipping&font=Fira+Code&center=true&width=560&height=45&color=FFFFFF&vCenter=true&size=18&background=00000000" alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/static/v1?label=STATUS&message=DATA%20AI%20INTERN&labelColor=000000&color=FFFFFF&style=for-the-badge" height="28" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-SANTA%20CATARINA%2C%20BRAZIL-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" height="28" alt="Location"/>
+
 </div>
 
 <br>
-<hr>
-<br>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>About Me</h3>
-      <p align="justify">
-        I am a high school senior pursuing a technical degree in <b>Systems Development</b>. I am a passionate learner driven by the intersection of data infrastructure and computational intelligence. 
-      </p>
-      <p align="justify">
-        Focused on building robust automations and efficient architectures to solve real-world problems. Currently, I dedicate my studies to deepening my knowledge in <b>Artificial Intelligence</b> algorithms and advanced <b>Data Engineering</b> pipelines.
-      </p>
-      <p>
-        📍 Santa Catarina, Brazil
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=1&width=100%" width="100%"/>
 
-<br>
-<hr>
-<br>
+## 01 · PROFILE
 
-<!-- TECH STACK -->
-<h3 align="center">Stack & Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-334155?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=scrimba&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/MySQL-334155?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <br>
-  <img src="https://img.shields.io/badge/Bash-334155?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
-  <img src="https://img.shields.io/badge/Pandas-334155?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/NumPy-334155?style=for-the-badge&logo=numpy&logoColor=013243"/>
-  <img src="https://img.shields.io/badge/Linux-334155?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=F05032"/>
-</p>
-
-<br>
-<hr>
-<br>
-
-<!-- PROJECTS -->
-<h3>Featured Projects</h3>
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Banking System</h4>
-      <p>Python-structured back-end focused on pure business logic, secure concurrent transactions, and dynamic statement reports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=3776AB"/>
-      </p>
-      <a href="https://github.com/nicolaslops/Sistema-Bancario" target="_blank"><code>View Repository →</code></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Intelligent ChatBot</h4>
-      <p>Advanced conversational agent with AI integration for intent classification and automated, contextual responses.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-475569?style=flat-square&logo=python&logoColor=3776AB"/>
-        <img src="https://img.shields.io/badge/OpenAI-475569?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-      <a href="https://github.com/nicolaslops/ChatBot" target="_blank"><code>View Repository →</code></a>
-    </td>
-  </tr>
+<tr>
+<td width="65%" valign="top">
+
+> Building at the intersection of **data** and **intelligence**.
+
+I'm a high school senior pursuing a technical degree in **Systems Development**, focused on **Data Engineering**, **Artificial Intelligence**, and **Software Engineering**.
+
+I build systems that transform raw information into structured data, automated processes, and intelligent applications — with my current work centered on **data pipelines, database engineering, backend development, and AI**.
+
+</td>
+<td width="35%" valign="top">
+
+**CURRENT FOCUS**
+
+&nbsp;&nbsp;▸ Data Engineering
+&nbsp;&nbsp;▸ Artificial Intelligence
+&nbsp;&nbsp;▸ Software Engineering
+&nbsp;&nbsp;▸ Automation
+
+</td>
+</tr>
 </table>
 
-<br>
-<hr>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=1&width=100%" width="100%"/>
 
-<!-- STATS -->
-<h3>Performance Statistics</h3>
+## 02 · TECH STACK
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolaslops&theme=react&bg_color=1e293b&hide_border=false&color=38bdf8" width="100%" alt="Activity Graph" />
+
+**LANGUAGES**
+<br><br>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF" height="42" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" height="42" alt="C"/>&nbsp;
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" height="42" alt="SQL"/>&nbsp;
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" height="42" alt="Bash"/>
+
+<br><br>
+
+**DATA & DATABASES**
+<br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" height="42" alt="PostgreSQL"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="42" alt="MySQL"/>&nbsp;
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF" height="42" alt="Pandas"/>&nbsp;
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFFFFF" height="42" alt="NumPy"/>
+
+<br><br>
+
+**ENGINEERING & TOOLING**
+<br><br>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" height="42" alt="Linux"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" height="42" alt="Git"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="42" alt="GitHub"/>
+
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=1&width=100%" width="100%"/>
 
-<!-- FOOTER -->
+## 03 · SELECTED WORK
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Banking System
+
+A Python backend application focused on transaction processing, business rules, and dynamic account statements.
+
+**Stack:** `Python` · `Backend` · `Business Logic`
+
+<a href="https://github.com/nicolaslops/Sistema-Bancario">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="34" alt="View Banking System Repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Intelligent ChatBot
+
+Conversational AI system focused on intent classification and contextual automated responses.
+
+**Stack:** `Python` · `OpenAI` · `AI`
+
+<a href="https://github.com/nicolaslops/ChatBot">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="34" alt="View ChatBot Repository"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=1&width=100%" width="100%"/>
+
+## 04 · CURRENTLY LEARNING
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Data Engineering
+Advanced SQL · ETL architecture · Data pipelines · Data quality · Database engineering · Data integration
+
+</td>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+AI algorithms · Machine learning · Intelligent automation · Conversational systems · Classification
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:FFFFFF&height=1&width=100%" width="100%"/>
+
+## CONNECT
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,50:334155,100:1e293b&height=200&section=footer" width="100%"/>
+
+<a href="https://www.linkedin.com/in/nicolas-lopes-bb5a7a39b/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" height="42" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:nicolassantanalopes@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" height="42" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/nicolaslops">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="42" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=90&section=footer" width="100%" alt="Footer"/>
+
 </div>
