@@ -37,10 +37,10 @@ I build systems that transform raw information into structured data, automated p
 
 **CURRENT FOCUS**
 
-&nbsp;&nbsp;▸ Data Engineering
-&nbsp;&nbsp;▸ Artificial Intelligence
-&nbsp;&nbsp;▸ Software Engineering
-&nbsp;&nbsp;▸ Automation
+&nbsp;&nbsp;▸ Data Engineering <br>
+&nbsp;&nbsp;▸ Artificial Intelligence <br>
+&nbsp;&nbsp;▸ Software Engineering <br>
+&nbsp;&nbsp;▸ Automation <br>
 
 </td>
 </tr>
